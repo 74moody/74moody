@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **@msecurity.bh**
 
-- 📄 Know about my experiences [CTF Player at cybertalents and other platforms.](CTF Player at cybertalents and other platforms.)
+- 📄 Know about my experiences [CTF Player at cybertalents and other platforms.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
